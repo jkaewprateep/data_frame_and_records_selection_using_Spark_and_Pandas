@@ -84,6 +84,10 @@ spark = SparkSession \
 
 ## 🧸💬 Read .csv data, custom data class or data module can perform
 
+🦭💬 Read object, file, IO, visual screen and communication can create dataset results but you need to use the correct interface's response to the response type because update software they are tested and communications. </br>
+🐑💬 ➰ You are correct some machines use two spaces and one space or handling of screen with alignments specific and versions controls and specification is identified at first priority. </br>
+👧💬 🎈 More than file reading what else we can read ⁉️ We have a custom dataset class object creation and that is an example of dataset method generation. </br>
+
 ```
 mtcars = pd.read_csv('https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-BD0225EN-SkillsNetwork/labs/data/mtcars.csv')
 ```
