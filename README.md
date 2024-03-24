@@ -141,5 +141,7 @@ sdf.withColumn('wtTon', sdf['wt'] * 4.5).withColumn('kmpl', sdf['mpg'] * 0.425).
     <img width="40%" src="https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/06.png">
 </p>
 
+[ Dataframe columns operations - Pandas ]( https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python?tab=readme-ov-file#-sometimes-to-start-implementation-a-simple-one-hot-implement-method-can-applied-with-embedded-value-in-the-system )
+
 </br>
 🥺💬 I am a DevOps engineering specialist and I have experience over 10 years and I looking for a job - now not only C# but Java, Python, R, TensorFlow, react.js, node.js, etc. </br>
