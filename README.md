@@ -88,6 +88,16 @@ mtcars = pd.read_csv('https://cf-courses-data.s3.us.cloud-object-storage.appdoma
 sdf = spark.createDataFrame(mtcars)
 ```
 
+🧸💬 Or
+
+```
+data = [("A101", 1000), ("A102", 2000), ("A103", 3000)]
+
+columns = ["emp_id", "salary"]
+
+dataframe_2 = spark.createDataFrame(data, columns)
+```
+
 [ Create data frame - Python ]( https://github.com/jkaewprateep/machinelearning_apachespark/tree/main?tab=readme-ov-file#-this-is-sample-of-create-instant-data-frame-from-statics-value )
 
 ## 🧸💬 Data filters
