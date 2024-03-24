@@ -62,7 +62,7 @@ Add_employeedata() {                                                            
 🦭💬 What is Unknown aircraft ⁉️ </br>
 🐐💬 None registered aircraft before it is unidentified to identified and they are not permanently unidentified, permission required of both known and unknown sometimes single trip communication request is important as it is servibility. </br>
 🐑💬 ➰ Compared to honest returns they go back in time and prove their activities and practice for good reason. </br>
-🦤💬 The same as RTLS, ASDS, and synchronisms are published on the Internet for interest, working with data you need to understand the data's meaning, like it, and study it. In example of data meaning is some target is base, ocean, and none return, and without understanding all are negative or ocean target is none negative but you may find summarized values return validation. </br>
+🦤💬 The same as RTLS, ASDS, and synchronisms are published on the Internet for interest, working with data you need to understand the data's meaning, like it, and study it. An example of data meaning is some target is base, ocean, and none return, and without understanding all are negative or ocean target is none negative but you may find summarized values return validation. </br>
 👧💬 🎈 What is identified honest return ⁉️ 🐑💬 ➰ That is a strong desire. </br>
 
 <p align="center" width="100%">
@@ -70,6 +70,9 @@ Add_employeedata() {                                                            
 </p>
 
 ## 🧸💬 Session registration and do not forget to close and dispose of it before leaving the next station can work with performance
+
+👧💬 🎈 Remember we can create a communication program that handles of same port number and type with the same machine listener and transmitter but the application itself needs to handle the message communication therefore before the event communications we use today in C or Java language programming you can specific override method for capture same data but that is dangerous because the user does not aware. </br>
+🐑💬 ➰ That is because of application behavior it cannot always perform quicker on the same machine and resources they need to raise the priority and then allow you to select priority for the process but OS management performs, this is prohibited because of application handling. The actual program needs to tracing and verify of process and message, summing and updating multiple of systems before perform an action safely then it may transmit a message slower than a custom application that is created for only one purpose. Later they do not allow to create of deligated types of controls except C language programming or wrapper to manage resources. </br>    
 
 ```
 spark = SparkSession \
