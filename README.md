@@ -12,6 +12,12 @@ Data frame and records selection using Spark and Pandas
     <img width="50%" src="https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/01.png">
 </p>
 
+## Sample application using stage message-testing ( 2020 C# state message event listener Genesis client secured communications )
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/03.png">
+</p>
+
 - - -
 
 <p align="center" width="100%">
