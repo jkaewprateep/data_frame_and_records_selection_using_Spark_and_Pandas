@@ -125,5 +125,11 @@ car_counts = sdf.groupby(['cyl'])\
     <img width="13%" src="https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/05.png">
 </p>
 
+🧸💬 Pandas groupby method
+
+```
+dataset = dataset.groupby(by="id").first();
+```
+
 </br>
 🥺💬 I am a DevOps engineering specialist and I have experience over 10 years and I looking for a job - now not only C# but Java, Python, R, TensorFlow, react.js, node.js, etc. </br>
