@@ -96,6 +96,8 @@ mtcars = pd.read_csv('https://cf-courses-data.s3.us.cloud-object-storage.appdoma
 
 ## 🧸💬 Create dataframe
 
+🐑💬 ➰ Creating a data frame, it helps a lot with statistics and data management inside of the statistics server they manage many datasets and results from their aggregation, selection matrixes, and compact can return instant with dataset management or some application export and manage as file name .xsd or dataset with different types or memory heaps. </br>
+
 ```
 sdf = spark.createDataFrame(mtcars)
 ```
