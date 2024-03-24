@@ -90,5 +90,17 @@ sdf = spark.createDataFrame(mtcars)
 
 [ Create data frame - Python ]( https://github.com/jkaewprateep/machinelearning_apachespark/tree/main?tab=readme-ov-file#-this-is-sample-of-create-instant-data-frame-from-statics-value )
 
+## 🧸💬 Data filters
+
+```
+sdf.filter(sdf['mpg'] < 18).show(5)
+```
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/04.png">
+</p>
+
+[ Spam filters - Pandas ]( https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python?tab=readme-ov-file#-sometimes-to-start-implementation-a-simple-one-hot-implement-method-can-applied-with-embedded-value-in-the-system )
+
 </br>
 🥺💬 I am a DevOps engineering specialist and I have experience over 10 years and I looking for a job - now not only C# but Java, Python, R, TensorFlow, react.js, node.js, etc. </br>
