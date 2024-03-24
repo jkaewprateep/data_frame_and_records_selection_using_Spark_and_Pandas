@@ -116,6 +116,8 @@ dataframe_2 = spark.createDataFrame(data, columns)
 
 ## 🧸💬 Data filters
 
+🐑💬 ➰ Filtering and aggregation data is how we manage statistics and when there is a case we can reply or find the root cause of the problem by the request query and its return. </br>
+
 ```
 sdf.filter(sdf['mpg'] < 18).show(5)
 ```
@@ -127,6 +129,8 @@ sdf.filter(sdf['mpg'] < 18).show(5)
 [ Spam filters - Pandas ]( https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python?tab=readme-ov-file#-sometimes-to-start-implementation-a-simple-one-hot-implement-method-can-applied-with-embedded-value-in-the-system )
 
 ## 🧸💬 Aggregate function
+
+🐑💬 ➰ Aggregate data is a function to return data from the selection grouping and management function, do not try to group of non- aggregate data with aggregate data because it has the same behavior as we do at the client but the server is a memory management and security protection environment. </br>
 
 ```
 car_counts = sdf.groupby(['cyl'])\
