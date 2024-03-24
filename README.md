@@ -151,6 +151,8 @@ dataset = dataset.groupby(by="id").first();
 
 ## 🧸💬 Dataframe columns operations
 
+🐑💬 ➰ For some systems they create a shadow table to manage statistics because they believe update statistics need a response in the correct scopes, reply to un-confirmation data of non-confirmed status to the client may lead to some actions unrequired. </br>
+
 ```
 sdf.withColumn('wtTon', sdf['wt'] * 4.5).withColumn('kmpl', sdf['mpg'] * 0.425).sort('mpg', ascending=False).show()
 ```
