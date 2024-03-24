@@ -62,5 +62,15 @@ Add_employeedata() {                                                            
     <img width="50%" src="https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/02.png">
 </p>
 
+## 🧸💬 Session registration and do not forget to close and dispose before leave the next station can working with performance
+
+```
+spark = SparkSession \
+    .builder \
+    .appName("Python Spark DataFrames basic example") \
+    .config("spark.some.config.option", "some-value") \
+    .getOrCreate()
+```
+
 </br>
 🥺💬 I am a DevOps engineering specialist and I have experience over 10 years and I looking for a job - now not only C# but Java, Python, R, TensorFlow, react.js, node.js, etc. </br>
