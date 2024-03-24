@@ -21,6 +21,8 @@ Data frame and records selection using Spark and Pandas
 
 ## Sample application using stage message-testing ( 2020 C# state message event listener Genesis client secured communications )
 
+🥺💬 Communication devices registration and event listeners will look like the sample code in the message below, it is working at the event message level with an event message generator, and someone at the previous company had knowledge about this type of programming that is for communication applications which is unique for client desktop. He makes a lot of money from them at the time before event messages communication with multi-variances type of message listeners are working with easy as in current. </br>
+
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/03.png">
 </p>
