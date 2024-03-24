@@ -137,5 +137,9 @@ dataset = dataset.groupby(by="id").first();
 sdf.withColumn('wtTon', sdf['wt'] * 4.5).withColumn('kmpl', sdf['mpg'] * 0.425).sort('mpg', ascending=False).show()
 ```
 
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/06.png">
+</p>
+
 </br>
 🥺💬 I am a DevOps engineering specialist and I have experience over 10 years and I looking for a job - now not only C# but Java, Python, R, TensorFlow, react.js, node.js, etc. </br>
