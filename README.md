@@ -82,5 +82,13 @@ mtcars = pd.read_csv('https://cf-courses-data.s3.us.cloud-object-storage.appdoma
 
 [ Create custom dataset class ]( https://github.com/jkaewprateep/Coursera_DL0110EN_Honors?tab=readme-ov-file#create-a-custom-class-for-dataset )  </br>
 
+## 🧸💬 Create dataframe
+
+```
+sdf = spark.createDataFrame(mtcars)
+```
+
+[ Create data frame ]( https://github.com/jkaewprateep/machinelearning_apachespark/tree/main?tab=readme-ov-file#-this-is-sample-of-create-instant-data-frame-from-statics-value )
+
 </br>
 🥺💬 I am a DevOps engineering specialist and I have experience over 10 years and I looking for a job - now not only C# but Java, Python, R, TensorFlow, react.js, node.js, etc. </br>
