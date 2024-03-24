@@ -13,6 +13,7 @@ Data frame and records selection using Spark and Pandas
 🦤💬 Ops codes are also used for facilities for scopes of terminal communication when message types and responses are determined at application level and registration device types. What is the difference of information, debug information, and information priority⁉️  Is the information priority equivalent to the registration message⁉️ When there is similar priority came to network devices how to select information response and an example of communication register message and call for transfer that reduce many of duplicated messages. </br>
 🐑💬 ➰ Do you mean transfer messages never leave from devices when there is not registered ⁉️ and there is no request to create communication devices by none-communication device type from unexpected ⁉️ ( wide ranges communications ) </br>
 🦤💬 This is an example of communication message flow control and that is possible when the message loop replays inside the networks. No, it will not respond to different Ops code messages. ( narrows band communications ) </br>
+👧💬 🎈 What is identified honest return ⁉️ 🐑💬 ➰ That is a strong desire. </br>
 
 
 <p align="center" width="100%">
