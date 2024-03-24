@@ -61,7 +61,7 @@ Add_employeedata() {                                                            
 ## 🧸💬 These pictures from the IBM data science class give you an example of working with data from small to larger scales.
 
 🦭💬 What is Unknown aircraft ⁉️ </br>
-🐐💬 None registered aircraft, permission required of both known and unknown sometimes single trip communication request is important as it is servibility. </br>
+🐐💬 None registered aircraft before it is unidentified to identified and they are not permanently unidentified, permission required of both known and unknown sometimes single trip communication request is important as it is servibility. </br>
 🐑💬 ➰ Compared to honest returns they go back in time and prove their activities and practice for good reason. </br>
 🦤💬 The same as RTLS, ASDS, and synchronisms are published on the Internet for interest, working with data you need to understand the data's meaning, like it, and study it. In example of data meaning is some target is base, ocean, and none return, and without understanding all are negative or ocean target is none negative but you may find summarized values return validation. </br>
 
