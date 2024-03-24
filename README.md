@@ -58,11 +58,13 @@ Add_employeedata() {                                                            
 
 - - -
 
+## 🧸💬 These pictures from the IBM data science class give you an example of working with data from small to larger scales.
+
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/02.png">
 </p>
 
-## 🧸💬 Session registration and do not forget to close and dispose before leave the next station can working with performance
+## 🧸💬 Session registration and do not forget to close and dispose of it before leaving the next station can work with performance
 
 ```
 spark = SparkSession \
