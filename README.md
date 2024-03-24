@@ -122,7 +122,7 @@ car_counts = sdf.groupby(['cyl'])\
 ```
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/05.png">
+    <img width="13%" src="https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/05.png">
 </p>
 
 </br>
