@@ -131,5 +131,11 @@ car_counts = sdf.groupby(['cyl'])\
 dataset = dataset.groupby(by="id").first();
 ```
 
+## 🧸💬 Dataframe columns operations
+
+```
+sdf.withColumn('wtTon', sdf['wt'] * 4.5).withColumn('kmpl', sdf['mpg'] * 0.425).sort('mpg', ascending=False).show()
+```
+
 </br>
 🥺💬 I am a DevOps engineering specialist and I have experience over 10 years and I looking for a job - now not only C# but Java, Python, R, TensorFlow, react.js, node.js, etc. </br>
