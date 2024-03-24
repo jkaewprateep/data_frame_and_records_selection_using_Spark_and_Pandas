@@ -74,5 +74,13 @@ spark = SparkSession \
     .getOrCreate()
 ```
 
+## 🧸💬 Read .csv data, custom data class or data module can perform
+
+```
+mtcars = pd.read_csv('https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-BD0225EN-SkillsNetwork/labs/data/mtcars.csv')
+```
+
+[ Create custom dataset class ]( https://github.com/jkaewprateep/Coursera_DL0110EN_Honors?tab=readme-ov-file#create-a-custom-class-for-dataset )  </br>
+
 </br>
 🥺💬 I am a DevOps engineering specialist and I have experience over 10 years and I looking for a job - now not only C# but Java, Python, R, TensorFlow, react.js, node.js, etc. </br>
